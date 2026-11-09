@@ -1,0 +1,17 @@
+h1 {
+  margin-bottom: 20px;
+}
+
+h3 {
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+h4 {
+  margin: 20px;
+}
+
+.accordion {
+  max-width: 600px;
+  margin: auto;
+}
